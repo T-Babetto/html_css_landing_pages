@@ -27,4 +27,4 @@
 
 # Licença
 
-Este projeto está licenciado sob a Licença GNU 2,  consulte o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença GNU 2,  consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
