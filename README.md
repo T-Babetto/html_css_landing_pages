@@ -1,1 +1,30 @@
-# html_css_landing_pages
+# HTML & CSS STATIC LANDING PAGES 
+
+
+![Capa do Projeto](https://picsum.photos/850/280)
+
+# Sobre o Projeto
+
+ Projeto com intuito de desenvolver protótipos de tela em alta fidelidade com html e css.
+
+# Índice/Sumário
+
+* [Sobre](#sobre-o-projeto)
+* [Sumário](#índice/sumário)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Autores](#autores)
+* [Licença](#licença)
+
+# Tecnologias Usadas
+
+- [HTML]
+- [CSS]
+
+
+# Autores
+
+[Tiago Rocha](https://github.com/T-Babetto)
+
+# Licença
+
+Este projeto está licenciado sob a Licença GNU 2,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
