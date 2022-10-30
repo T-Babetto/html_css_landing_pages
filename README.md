@@ -1,4 +1,4 @@
-# HTML & CSS STATIC LANDING PAGES 
+# Página estática de Cobranças
 
 
 # Sobre o Projeto
