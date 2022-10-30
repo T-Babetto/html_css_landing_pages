@@ -1,8 +1,6 @@
 # HTML & CSS STATIC LANDING PAGES 
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
-
 # Sobre o Projeto
 
  Projeto com intuito de desenvolver protótipos de tela em alta fidelidade com html e css.
