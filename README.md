@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
- Projeto com intuito de desenvolver protótipos de tela em alta fidelidade com html e css.
+ Projeto com intuito de desenvolver um protótipo de tela em alta fidelidade com html e css.
 
 # Índice/Sumário
 
