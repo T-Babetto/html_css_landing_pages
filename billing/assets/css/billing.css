@@ -45,36 +45,43 @@ a {
   flex-direction: row;
   margin-top: 4%;
   margin-left: 10%;
-  height: 90%;
-  width: 83%;
+  width: 85%;
   left: 0px;
   top: 0px;
   border-radius: 30px;
+  height: -webkit-fill-available;
 }
 .side-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 25%;
   left: 0px;
   top: 0px;
+  height:auto;
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
   background-color: var(--color-secondary);
 }
 .user-account {
   padding-top: 12%;
-  padding-left: 16%;
+  padding-left: 3em;
   display: flex;
   gap: 12px;
 }
 .nav-items {
-  padding-top: 20%;
-  padding-left: 16%;
+  padding-left: 3em;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;  
 }
+.picture-items{
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
 .logout {
-  padding-top: 90%;
-  padding-left: 16%;
+  padding-left: 3em;
   display: flex;
   flex-direction: row;
 }
@@ -160,15 +167,14 @@ td {
   border: 1px solid #cbcbd9;
 }
 .card-plan {
-  width: 35%;
-  height: 30%;
+  width: 25em;
+  height: fit-content;
   background-color: var(--color-tertiary);
   border-radius: 16px;
   color: var(--color-white);
-  padding-left: 3%;
-  padding-top: 3%;
-  margin-top: 10%;
-  margin-right: 10%;
+  padding: 2em;
+  margin-top: 5.5em;
+  margin-right: 3em;
 }
 .cancel-button {
   display: flex;
@@ -176,7 +182,6 @@ td {
   margin-top: 2em;
   font-size: 12px;
   padding: 9px 17px;
-  margin-bottom: 5%;
   width: 160px;
   border-radius: 8px;
   border: 1px solid var(--color-white);
