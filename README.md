@@ -1,4 +1,4 @@
-# Página estática de Cobranças
+# Página estática - Cobranças
 
 
 # Sobre o Projeto
