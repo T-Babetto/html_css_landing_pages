@@ -146,12 +146,12 @@ td {
   padding-top: 5%;
 }
 .visa-card {
-  width: 60%;
-  padding-top: 4%;
-  padding-left: 2%;
-  align-items: center;
-  display: flex;
-  gap: 12px;
+    padding-top: 4%;
+    padding-left: 2%;
+    align-items: center;
+    display: flex;
+    margin-bottom: 3em;
+    gap: 12px;
 }
 .visa-number {
   margin-right: 13%;
